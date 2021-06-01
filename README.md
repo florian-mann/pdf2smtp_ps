@@ -4,7 +4,8 @@ Print to networkprinter and get PDF-File via email on a Windows print server a P
 Solution is based on the work of Frank Carius: https://www.msxfaq.de/tools/pdf2smtp/uebersicht.htm
 
 Informations:
-  Overview (German):
+
+  Overview and detaild instructions (German):
   https://www.msxfaq.de/tools/pdf2smtp/uebersicht.htm
   Redmon:
   http://www.ghostgum.com.au/software/redmon.htm
