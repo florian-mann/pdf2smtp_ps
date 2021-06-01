@@ -14,6 +14,7 @@ Informations:
 
   Add Redmon Port
     RPT1: Properties
+    
       Redirect this port to the program: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
       Arguments for this program are: -command C:\Skripte\pdf2smtp_ps.ps1
       Output: Program handles output
