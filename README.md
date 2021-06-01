@@ -10,8 +10,7 @@ Informations:
   Install ghostscript to c:\Program Files\gs\version\   for example "C:\Program Files\gs\gs9.52\bin\gswin64c.exe"
     ![Install-Folders](https://user-images.githubusercontent.com/21160938/120331654-4cb70580-c2ee-11eb-88f0-76be83c0b3ea.png)
   Install redmon to c:\Program Files\gs\redmon\
-   MORE DETAILS COMMING....
-
+   see http://www.ghostgum.com.au/software/redmon19.htm#27
 
   Add Redmon Port
     RPT1: Properties
