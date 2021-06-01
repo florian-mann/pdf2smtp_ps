@@ -37,4 +37,5 @@ Informations:
     
     Share printer
   Make sure Active Directory Users mail attribut is set (Find User Mail-Address according to its Active Directory samaccountname)
- Save pdf2smtp_ps.ps1 to C:\Skripte\pdf2smtp_ps.ps1
+
+  Save pdf2smtp_ps.ps1 to C:\Skripte\pdf2smtp_ps.ps1
